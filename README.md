@@ -1,4 +1,4 @@
-# IoT JumpWay Raspberry Pi Examples
+# Adam AI IoT JumpWay Raspberry Pi Examples
 
 ![TechBubble IoT JumpWay Docs](images/main/Raspberry-Pi-Examples.png)  
 
